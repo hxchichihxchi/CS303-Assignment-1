@@ -1,0 +1,7 @@
+﻿  CS303 Assignment 1.cpp
+C:\Users\duypl\source\repos\CS303 Assignment 1\CS303 Assignment 1.cpp(48,53): warning C4101: 'e': unreferenced local variable
+C:\Users\duypl\source\repos\CS303 Assignment 1\CS303 Assignment 1.cpp(81,45): warning C4101: 'e': unreferenced local variable
+C:\Users\duypl\source\repos\CS303 Assignment 1\CS303 Assignment 1.cpp(103,45): warning C4101: 'e': unreferenced local variable
+C:\Users\duypl\source\repos\CS303 Assignment 1\CS303 Assignment 1.cpp(121,45): warning C4101: 'e': unreferenced local variable
+C:\Users\duypl\source\repos\CS303 Assignment 1\CS303 Assignment 1.cpp(146,45): warning C4101: 'e': unreferenced local variable
+  CS303Assignment1.vcxproj -> C:\Users\duypl\source\repos\cs303assignment1\x64\Debug\CS303Assignment1.exe
